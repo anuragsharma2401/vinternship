@@ -14,43 +14,27 @@ permalink: /protocols_and_policies/
 
 ## Support and Resolution Protocol
 
-The Pinternship programme follows a structured support and grievance redressal mechanism to ensure clarity, accountability, and timely resolution of participant queries. All students are required to follow the prescribed support flow in sequence before escalating any issue.
-
 <img src="../support-escalation.png" alt="Escalation Protocol" style="width: 100%; max-width: 600px; margin: 20px auto; display: block;">
 
-### Broadcast Channel/Thread
+The Pinternship programme follows a structured support and grievance redressal mechanism. If you have a query, please follow the steps below in order:
 
-The **Broadcast Channel/Thread** is the official communication channel/thread of the Pinternship programme. All programme-related announcements, instructions, timelines, and policy updates shall be communicated exclusively through this channel/thread.
+### 1. Telegram Broadcast
+Check the official **Telegram Broadcast Channel** for announcements, instructions, and updates. Often, the answer to your query has already been posted.
 
-This channel/thread operates on a one-way communication model, and participants are not permitted to post responses or raise queries. Students are expected to regularly monitor this channel/thread and act in accordance with the information communicated.
+### 2. Ask Vi-Sakha
+Utilize [Vi-Sakha](https://sakha.vicharanashala.ai/){:target="_blank"} to find answers to common questions and immediate assistance.
 
-### Discussion Channel
+### 3. Breakout Discussion
+Discuss with your peers in the **breakout rooms**. Your fellow interns might have faced and solved the same issue.
 
-The **Discussion or Cohort Specific Channels** are intended to facilitate student-student interaction and peer-supported problem solving. Participants may use this channel to seek clarifications, discuss academic or platform-related issues, and exchange ideas with fellow interns.
+### 4. Support Desk
+If your query remains unresolved, write to the Support Desk at **vinternship@vicharanashala.zohodesk.in**. Our support team will respond within **2 hours** of your submission (between 9 AM to 9 PM). Any question submitted beyond 9 PM will be answered the next day.
 
-Students are expected to engage responsibly, maintain academic decorum, and review existing discussions before raising new queries.
+If you do not receive a response within 24 hours, you may raise a second ticket with the subject line: *"Attention Please – Follow-up on Ticket #[Original Ticket Number]"*. This ticket will be escalated to our Mentors Team, who will assume responsibility for it. They will schedule a call discussion to ensure your issue is clearly understood and resolved directly.
 
-### Support Desk
+If your concern remains unaddressed after 48 hours of your first ticket (and after raising a follow-up), you may escalate the matter via email to the Internship Sponsor. Please CC **Prof. Sudarshan Iyengar** directly, along with your department’s faculty reference, your department HOD, and the DLED Team at `dled@iitrpr.ac.in`. Ensure that your email includes your full name, department, reference numbers and dates of the two Zoho Desk tickets, and a brief explanation of the unresolved issue.
 
-The **Pinternship Support Desk** constitutes the formal support mechanism for all technical, administrative, and programme-related issues. Participants are required to raise a support ticket through the official support desk at  
-**pinternship-support@vicharanashala.zohodesk.in** when their issue cannot be resolved through official announcements or peer discussion.
-
-Students must retain their ticket reference number and allow adequate time for resolution before proceeding further.
-
-### Escalation Channel/Thread
-
-The **Escalation Channel/Thread** is a restricted support mechanism and shall be used strictly as a last resort. Participants may access this channel only when their query remains unresolved despite following all prior steps, including raising a formal support ticket with the Support Desk.
-
-This channel/thread is reserved for critical issues that materially affect participation or progression. Premature or inappropriate use of the escalation mechanism may result in delayed response.
-
-
-### Usage of Emojis
-
-1. Use 👍 to acknowledge a message as soon as it is posted.  
-2. Use ✅ once the query has been resolved.  
-3. Use 🔔 for FYI or informational updates.  
-4. Use ➕ if you are facing a similar issue.  
-5. Please reply within threads to keep the channel organized.
+To maintain consistency and ensure efficient support, we request all interns to strictly follow this three-step resolution path for all issues.
 
 ---
 
